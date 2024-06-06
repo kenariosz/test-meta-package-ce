@@ -9,5 +9,11 @@
 	"minimum-stability": "stable",
 	"require": {
 		"kenariosz/test-shop-ce": "dev-b-7.0.x"
+	},
+	"repositories": {
+		"kenariosz/test-shop-ce": {
+			"type": "git",
+			"url": "https://github.com/kenariosz/test-shop-ce"
+		}
 	}
 }
