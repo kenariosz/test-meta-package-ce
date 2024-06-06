@@ -1,0 +1,13 @@
+{
+	"name": "kenariosz/test-metapackage-ce",
+	"description": "This is test metapackage.",
+	"type": "project",
+	"keywords": [
+		"test",
+		"metapackage"
+	],
+	"minimum-stability": "stable",
+	"require": {
+		"kenariosz/test-shop-ce": "dev-b-7.0.x"
+	}
+}
