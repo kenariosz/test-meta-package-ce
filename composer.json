@@ -7,6 +7,7 @@
 		"metapackage"
 	],
 	"minimum-stability": "dev",
+	"prefer-stable": true,
 	"require": {
 		"kenariosz/test-shop-ce": "dev-b-7.0.x"
 	},
